@@ -9,7 +9,7 @@
     "scrollbar"
   ],
   "dependencies": {
-    "angulx
+   "angular": "*",
     "utatti-perfect-scrollbar": "1.0.x"
   },
   "authors": [
